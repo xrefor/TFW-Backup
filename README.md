@@ -64,7 +64,7 @@ This PowerShell script creates a backup of the save files for "The Forever Winte
 [+] Compression completed successfully!
 [+] Backup completed successfully!
 [*] File saved to: C:\TFW-Backup\TFW-Backup-2025-01-19_14-30-45.zip
-[!] Press Enter to exit...
+Press any key to continue . . .
 ```
 
 ---
